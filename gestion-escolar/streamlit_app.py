@@ -422,5 +422,6 @@ elif page == "Ajustes / Exportar":
 st.sidebar.markdown('---')
 st.sidebar.write('¿Necesitas ayuda?')
 st.sidebar.write('• Si quieres que ajuste esto a tu institución, dime cuántas materias y alumnos tienes.')
+st.sidebar.write('Juan E. Romero - Python Developer')
 
 
