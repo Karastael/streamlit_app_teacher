@@ -1,0 +1,8 @@
+streamlit
+sqlite3
+pandas
+os
+datetime
+pathlib
+io
+base64
