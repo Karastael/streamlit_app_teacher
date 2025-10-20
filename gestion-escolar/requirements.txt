@@ -1,4 +1,3 @@
 streamlit
 pandas
-pathlib
-base64
+numpy
